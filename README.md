@@ -1,0 +1,10 @@
+- written in **C**
+- run **2048.exe** then follow the prompt and enjoy a 5*5 different 2048
+- **special mode**:
+  - **Brick**(restrict ur move)
+  - **Swirl**(bump then lose a number)
+  - **Wormhole**(transmit to another one randomly)
+  - **Easy**(remove a number when stuck)
+  - **Mix**(mix **Brick**, **Swirl**, **Wormhole**, **Easy**)
+- supports **record**
+- simply control by keyboard
